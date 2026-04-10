@@ -25,4 +25,7 @@ Para cambiar todos los ajustes tenemos que entrar en "Administracion del sitio",
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-10%20141412.png)
 
-Para cambiar la franja horaria nos tendremos que ir 
+### Cambio de idioma
+ Para hacer el cambio de idioma tendremos que entrar a "administracion del sitio"
+
+ ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-10%20141936.png)
