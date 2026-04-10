@@ -34,3 +34,6 @@ Dentro,bajamos hasta encontrar el aportado ubicacion
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-10%20142053.png)
 
+Despues tenemos que cambiar las tres primeras opciones al sitio que deseemos
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-10%20142042.png)
