@@ -21,3 +21,6 @@ Y para acabar bajamos hasta que veamos la opcion "imagen de usuario"
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-10%20140711.png)
 
 ### 2.2 Configuració del lloc
+Para cambiar todos los ajustes tenemos que entrar en "Administracion del sitio",dentro nos saldran todos los ajustes par aconfigurar todo
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-10%20141412.png)
