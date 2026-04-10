@@ -24,8 +24,8 @@ Y para acabar bajamos hasta que veamos la opcion "imagen de usuario"
 
 ### Cambiar nombre
 
-Para poder cambiar el nombre tendremos que entrar 
-
+Para poder cambiar el nombre tendremos que entrar a Página principal
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-10%20142848.png)
 
 ### Cambio de idioma
  Para hacer el cambio de idioma tendremos que entrar a "administracion del sitio"
