@@ -62,3 +62,10 @@ Por ultimo tendremos que cambiar el minimo de digitios para escribir y asi poder
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115832.png)
 
 ## Creació de cursos
+En primer lugar tendremos que fijarnos arriba  en la parte izquierda y entrar en "Administracion del sitio"
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115445.png)
+
+Seguidamente nos vamos a la seccion cursos que estan en la parte de arriba
+
+
