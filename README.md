@@ -100,3 +100,7 @@ Despues entramos al apartado "Usuarios"
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20123015.png)
 
+Y para acabar ponemos los datos y cuando este todo listo le damos a "Crear Usuario"
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20123211.png)
+
