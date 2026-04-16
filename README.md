@@ -70,6 +70,8 @@ Seguidamente nos vamos a la seccion cursos que esta en la parte de arriba
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20120555.png)
 
-Ya dentro tednremos que entrar en "Administra cursos y categorias"
+Despues tendremos que entrar en "Administra cursos y categorias"
 
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20120604.png)
 
+Ya dentro 
