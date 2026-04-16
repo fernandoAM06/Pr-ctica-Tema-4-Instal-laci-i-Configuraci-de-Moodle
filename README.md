@@ -74,4 +74,6 @@ Despues tendremos que entrar en "Administra cursos y categorias"
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20120604.png)
 
-Ya dentro 
+Ya dentro tendremos que entrar a "Crear nuevo curso", en mi caso he puesto algo rapido para explicarlo
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20120520.png)
