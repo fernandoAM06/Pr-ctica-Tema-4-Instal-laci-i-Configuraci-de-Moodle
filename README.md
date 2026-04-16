@@ -77,3 +77,7 @@ Despues tendremos que entrar en "Administra cursos y categorias"
 Ya dentro tendremos que entrar a "Crear nuevo curso", en mi caso he puesto algo rapido para explicarlo
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20120520.png)
+
+Para crear los temas nos tendremos que ir a la seccion "Mis cursos"
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20121507.png)
