@@ -96,3 +96,7 @@ En primer lugar tendremos que fijarnos arriba  en la parte izquierda y entrar en
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115445.png)
 
+Despues entramos al apartado "Usuarios"
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20123015.png)
+
