@@ -92,4 +92,7 @@ He hecho lo mismo solo que he creado 5 temas
 
 ## Creació i gestió d'usuaris
 ### 4.1. Creació manual d'usuaris
+En primer lugar tendremos que fijarnos arriba  en la parte izquierda y entrar en "Administracion del sitio"
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115445.png)
 
