@@ -46,5 +46,5 @@ Despues tenemos que cambiar las tres primeras opciones al sitio que deseemos
 ### Seguridad de contraseña
 En primer lugar tendremos que fijarnos arriba  en la parte izquierda y entrar en "Administracion del sitio"
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115445.png)
-Despues tendremos que bajar hasta encontrar "Seguridad"
-
+Despues tendremos que bajar hasta encontrar "Seguridad" y entrar en "Políticas de seguridad del sitio"
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115505.png)
