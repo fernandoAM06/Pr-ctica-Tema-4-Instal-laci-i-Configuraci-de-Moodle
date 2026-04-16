@@ -89,3 +89,7 @@ Luego dentro podremos ponerle nombre a los temas entrando en el modo edicio
 
 ### Curso B
 He hecho lo mismo solo que he creado 5 temas 
+
+## Creació i gestió d'usuaris
+### 4.1. Creació manual d'usuaris
+
