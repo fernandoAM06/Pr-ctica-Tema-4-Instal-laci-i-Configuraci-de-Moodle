@@ -34,7 +34,7 @@ Despues tendremos que ir configuracion y ahi podremos cambiar el nombre corto y 
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20114943.png)
 
-### Cambio de idioma
+### Cambio de franja horaría
 
  Para hacer el cambio de idioma tendremos que entrar a "administracion del sitio"
 
@@ -125,6 +125,24 @@ Para acabar subimos el documento con todos los usuarios creados y guardamos camb
 ### 5.1. Configuració de mètodes d'inscripció
 ### Curs A
 
-Nos vamos hacia "mis cursos" y etramos al curso a
+Nos vamos hacia "mis cursos" y entramos al curso a
 
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-17%20140531.png)
+
+Dentro nos dirijimos a "Participantes"
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-17%20140604.png)
+
+Entramos en usuarios matriculados y desactivamos la opción necesaria
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-17%20140725.png)
+
+### Curs B
+Seguimos los mismos pasos,pero esta vez habilitamos la matriculacion manual
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-17%20141856.png)
+
+### 5.2 Verfiació
+
+Al comprovar esto en el curso a tengo libre vision,pero en cambio en el b me pide iniciar sesion constantemente
 
