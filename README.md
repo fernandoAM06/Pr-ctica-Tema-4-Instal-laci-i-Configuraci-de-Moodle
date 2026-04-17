@@ -119,6 +119,12 @@ Y buscamos la opcion "Subir usuarios"
 
 Para acabar subimos el documento con todos los usuarios creados y guardamos cambios
 
-![](<img width="1515" height="549" alt="image" src="https://github.com/user-attachments/assets/a69c4ce6-3fa8-4375-b2f5-f3f2a89e1dcf" />)
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-17%20135958.png)
+
+## 5. Matriculació d'usuaris als cursos
+### 5.1. Configuració de mètodes d'inscripció
+### Curs A
+
+Nos vamos hacia "mis cursos" y etramos al curso a
 
 
