@@ -146,3 +146,46 @@ Seguimos los mismos pasos,pero esta vez habilitamos la matriculacion manual
 
 Al comprovar esto en el curso a tengo libre vision,pero en cambio en el b me pide iniciar sesion constantemente
 
+## 6.Personalització del lloc
+
+### 1.Canvi d'aspecte 
+
+En primer lugar tendremos que fijarnos arriba  en la parte izquierda y entrar en "Administracion del sitio"
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115445.png)
+
+Despues entramos extiones y a instalar complementos
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20135338.png)
+
+Y ya entramos en la pagina y selecciones el plugin que queramos
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20135645.png)
+
+Ahora para cambiar el tema de moodle tendremos que entrar en "Apariencia" y seguidamnete a temas 
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20135839.png)
+
+Para acabar selccionamos el tema instaldo y aplicamos cambios
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20135839.png)
+
+### 2.Logotip
+
+Ahora para cambiar el logo de moodle tendremos que entrar en "Apariencia" y seguidamnete a logotipos, despues subimos el que queramos y guardamos cambios
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20140928.png)
+
+## 7. Creació de continguts i activitats
+### 7.1 CURS A 
+
+Para empezar nos dirijimos a cursos,despues a matricular usuarios y añadimos a un profesor y a lo demas alumnos
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20141620.png)
+
+Despues nos vamos a los temas del curso y añadimos una actividad con fecha de entrega y que solo s epueda entregar en pdf
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20142406.png)
+
+
+
