@@ -214,5 +214,13 @@ Pondremos la nota 5 de forma autmatica en todas las tascas entrgadas
 
 ### 2.Insignies
 
+Para entrar tendermos que entrar en el curso,irnos a mas y entrar en insignias,despues le daremos a crear y la configuraremos a nuestro gusto
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-24%2014-05-10.png)
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-24%2014-05-55.png)
+
+Para acabar ponemos la insignia al alumno que queramos 
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-24%2014-03-31.png)
 
 
