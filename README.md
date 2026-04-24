@@ -183,9 +183,17 @@ Para empezar nos dirijimos a cursos,despues a matricular usuarios y añadimos a 
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20141620.png)
 
-Despues nos vamos a los temas del curso y añadimos una actividad con fecha de entrega y que solo s epueda entregar en pdf
+Despues nos vamos a los temas del curso y añadimos una actividad con fecha de entrega y que solo se pueda entregar en pdf
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20142406.png)
 
+### 7.2 CURS B 
 
+Para importar lo del curso, entramos a curso b y nos dirijimos a "mas", dentro le damos a reutilización del curso y para finalizar a importar 
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-24%20131532.png)
+
+Despues selccionamos el curso a y ya lo tendremos en el curso b
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-24%20131603.png)
 
