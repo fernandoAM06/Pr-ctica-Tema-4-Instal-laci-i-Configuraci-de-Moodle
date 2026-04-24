@@ -197,3 +197,22 @@ Despues selccionamos el curso a y ya lo tendremos en el curso b
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-24%20131603.png)
 
+## 8. Qualificacions i insígnies
+### 1.Qualificacions:
+
+Primero iniciamos sesion con un alumno para poder entregar la tasca 
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-24%20133803.png)
+
+Despues nos iremos a calificaciones y entraremos en Configuracion de calificaciones
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-24%20135047.png)
+
+Pondremos la nota 5 de forma autmatica en todas las tascas entrgadas 
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-24%20135047.png)
+
+### 2.Insignies
+
+
+
