@@ -223,4 +223,21 @@ Para acabar ponemos la insignia al alumno que queramos
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-24%2014-03-31.png)
 
+## 9 Questionaris
 
+
+## 10 Importació i exportació de cursos
+
+## 11. Seguretat
+
+En primer lugar tendremos que fijarnos arriba  en la parte izquierda y entrar en "Administracion del sitio"
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115445.png)
+
+Despues nos dirijimos hasta el aprtado de seguridad y entramos a bloquear ip
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-30%2013-28-40.png)
+
+Para acabar elejimos la ip que queramos bloquear y la pnemos en el recuadro ,ya echo guardamos los cambios
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-30%2013-28-17.png)
