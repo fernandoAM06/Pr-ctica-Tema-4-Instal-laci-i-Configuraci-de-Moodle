@@ -2,7 +2,7 @@
 
 ## 1.Configuració inicial de Moodle
 
-### 1.1. Administració del perfil d'usuari
+### 2.1. Administració del perfil d'usuari
 
 Lo primero que he hecho al entrar al moodle ha sido cambiar mi correo electronico y elegir contraseña
 
