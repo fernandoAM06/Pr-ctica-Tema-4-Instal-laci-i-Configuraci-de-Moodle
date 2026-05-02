@@ -224,9 +224,24 @@ Para acabar ponemos la insignia al alumno que queramos
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-24%2014-03-31.png)
 
 ## 9 Questionaris
+Para hacer un banco de preguntas entramos a un curso, le damos a "Más" y clikamos en "Bancos de preguntas"
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-05-02%20115825.png)
+
+ Y para finalizar si no tenemos ninigun banco creado le daremos a crear por defecto,pero si ya tenemos alguno solo bastara con darle a "Añadir" y editar lo que te pide
+
+ ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-05-02%20115851.png)
 
 
 ## 10 Importació i exportació de cursos
+
+Para hacer una copia de seguirdad de un curs,tendremos que entrar a uno y seguidamente entrar en la seccion "Más" y darle click a Reutilización del curso
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-05-02%20115227.png)
+
+Despues tendremos que darle a Copia de seguirad y esperar
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-05-02%20115625.png)
 
 ## 11. Seguretat
 
